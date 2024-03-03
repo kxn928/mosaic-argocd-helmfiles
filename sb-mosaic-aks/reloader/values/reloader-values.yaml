@@ -1,0 +1,3 @@
+reloader:
+  config:
+    loglevel: info
